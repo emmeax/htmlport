@@ -1,0 +1,70 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+h2 {
+    color: green
+    ;
+}
+
+white {
+    color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0 auto;
+}
+
+
+
+ul {
+    list-style: circle;
+    margin: 8px;
+    padding: 5px;
+}
+
+.box-model {
+    border: 10px solid goldenrod;
+    background-color: black;
+    margin-bottom: 2px;
+    width: 50%;
+    margin: 0 auto;
+
+
+}
+
+.Resume {
+    border: 10px solid goldenrod;
+    background-color: black;
+    padding: 20px;
+}
+
+ul {
+    color: white;
+    text-align: left;
+    list-style: square;
+    margin: 10px;
+    padding: 10px;
+}
+
+strong {
+    color: white;
+}
+
+
+
+.blue {
+    color: blue;
+}
+
+
+
+
+
